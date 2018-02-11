@@ -1,0 +1,36 @@
+.Navbar {
+  background-color: #FFFFFF;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.NavbarRight {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: #dfc46d;
+  font-family: 'Roboto', sans-serif;
+}
+
+.NavbarLeft {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  color: #dfc46d;
+  
+}
+
+h4{
+  padding: 30px;
+   text-decoration: none;
+}
+
+h1{
+  padding-right: 450px;
+  padding-top: 10px;
+}
